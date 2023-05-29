@@ -93,6 +93,21 @@ STORE AND SECRET DATA FROM JSON FILE LIKE appsettings.json
 ...
 
 
+HOW TO DELETE SETS ?
+
+1. Remove All :
+
+		dotnet user-secrets clear
+
+
+2. Remove One : 
+
+		dotnet user-secrets remove "ConnectionStrings:MSSQL"
+		
+...
+
+
+
 HOW TO USE THAT ?
 
 1.In Program.cs :
