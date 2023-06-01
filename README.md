@@ -2,7 +2,7 @@
 
 Maybe You are Working On a Project 🚀
 
-Which Had <b>Sesitive Datas</b> 💢
+Which Had <b>Sensitive Datas</b> 💢
 Like Connection Strings , Api Keys , Tokens(CSRF,JWT), Passwords , etc.
 
 
